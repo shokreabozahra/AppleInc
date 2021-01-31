@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+}
+
+header{
+
+
+    background-color: rgb(179, 224, 72);
+}
+header h1{
+    
+    margin: 20px 0 20px 60px;
+    
+    text-align: center;
+}
+
+header nav ul{
+    list-style: none;
+   
+}
+
+header nav ul li{
+    
+    display: inline-block;
+    padding: 60px;
+    
+    
+}
+
+header nav ul li a{
+    text-decoration: none;
+    color: #01010a;
+}
+
+
+#mainParagraph{
+    color: black;
+    background-color:#2ECC40
+    ;
+}
+
+    .paragraphs{
+        background-color: #FFDC00
+       ;
+        
+    }
